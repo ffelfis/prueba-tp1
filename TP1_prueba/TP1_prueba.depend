@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538851578 source:c:\users\cian\documents\github\prueba-tp1\tp1_prueba\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
